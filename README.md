@@ -35,10 +35,10 @@ The first season sees lawyer-by-day Matt Murdock use his heightened senses from 
 ---
 
 | **Season** | **Episodes** | **Originally released** |
-| ----------- | ----------- |
-| 1 | 13 | April 10, 2015 |
-| 2 | 13 | March 18, 2016 |
-| 3 | 13 | October 19, 2018 |
+| ---------- | -----------  | ----------------------- |
+| 1          | 13           | April 10, 2015          |
+| 2          | 13           | March 18, 2016          |
+| 3          | 13           | October 19, 2018        |
 
 ---
 
